@@ -1,0 +1,13 @@
+========================================
+   REPORTE DE VACANTES PYTHON 2026
+========================================
+
+Salario Promedio del Mercado: 2983.3333333333335 USD
+
+Detalle de puestos analizados:
+- Dev Python: $2500
+- Dev Java: $2200
+- Data Scientist: $3000
+- Dev fullstak: $2000
+- Dev backend: $4200
+- Dev frontend: $4000
