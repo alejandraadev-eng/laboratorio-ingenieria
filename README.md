@@ -10,7 +10,7 @@ Bienvenida a mi espacio de experimentación técnica. Aquí documento mi progres
 Script profesional diseñado para procesar vacantes tecnológicas y calcular tendencias salariales.
 - **Tecnologías:** Python 3.12, Pandas, Entornos Virtuales (venv).
 - **Conceptos:** Manipulación de DataFrames, persistencia de archivos, lógica de filtrado.
-- [Ver código aquí](./01-analizador-mercado-python/)
+- [Ver código aquí](./01-analizador-mercado/)
 
 ---
 
